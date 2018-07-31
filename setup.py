@@ -17,7 +17,7 @@ setup(
     long_description=readme,
     author='nahid pervez',
     author_email='nahidpervez@gmail.com',
-    url='https://github.com/nahidpervez/datv',
+    url='https://github.com/nahidpervez/datav',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
